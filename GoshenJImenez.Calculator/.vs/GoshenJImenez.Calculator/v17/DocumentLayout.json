@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Goshen\\Desktop\\classes\\Calculator\\GoshenJImenez.Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56ED7BB9-FF3B-4CB1-90D0-78885E3B5C70}|GoshenJImenez.Calculator.App\\GoshenJImenez.Calculator.App.csproj|c:\\users\\goshen\\desktop\\classes\\calculator\\goshenjimenez.calculator\\goshenjimenez.calculator.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56ED7BB9-FF3B-4CB1-90D0-78885E3B5C70}|GoshenJImenez.Calculator.App\\GoshenJImenez.Calculator.App.csproj|solutionrelative:goshenjimenez.calculator.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Goshen\\Desktop\\classes\\Calculator\\GoshenJImenez.Calculator\\GoshenJImenez.Calculator.App\\Program.cs",
+              "RelativeDocumentMoniker": "GoshenJImenez.Calculator.App\\Program.cs",
+              "ToolTip": "C:\\Users\\Goshen\\Desktop\\classes\\Calculator\\GoshenJImenez.Calculator\\GoshenJImenez.Calculator.App\\Program.cs",
+              "RelativeToolTip": "GoshenJImenez.Calculator.App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:23:19.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
